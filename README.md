@@ -62,3 +62,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Per usare il template
+- creare il db
+- copiare il file .env.example e rinominarlo in .env
+- collegare il db nel file .env
+- eseguire composer install
+- eseguire il comando php artisan key:generate
+- eseguire npm i
